@@ -94,11 +94,11 @@ También puedes usar los scripts de `scripts/`:
 
 | Script | Qué hace |
 |---|---|
-| `setup.bat` | Instala dependencias y lanza el asistente |
-| `install.bat` | Crea el acceso directo de arranque automático |
+| `setup.bat` | Lanza el asistente de configuración |
+| `install.bat` | Instala dependencias y crea el acceso directo de arranque automático |
 | `start.bat` / `stop.bat` | Arranca o para el servicio |
 | `run_hidden.vbs` | Lo arranca sin ventana de consola |
-| `setup_network.ps1` | Ayuda con la red (Caddy / reglas locales) |
+| `setup_network.ps1` | Descarga Caddy y prepara el acceso por Tailscale |
 | `uninstall.bat` | Quita el arranque automático |
 
 ### Opciones de línea de comandos
