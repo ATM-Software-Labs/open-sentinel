@@ -14,7 +14,7 @@ Please maintain professional, constructive, and zero-trust engineering standards
 Clone the repository and prepare your local virtual environment:
 
 ```bash
-git clone https://github.com/atrumin16/open-sentinel.git
+git clone https://github.com/ATM-Software-Labs/open-sentinel.git
 cd open-sentinel
 python -m venv venv
 
